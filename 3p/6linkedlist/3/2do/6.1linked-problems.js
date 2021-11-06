@@ -5,7 +5,6 @@
  * solve each as requested
  * may use code from previous exercises
  * 
- * PROBLEM 1
- * Stack implementation (array-based)
- *
+ * linked-list implementation exercise
+ * edmodo
  */
